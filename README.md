@@ -115,10 +115,16 @@ contract SimpleBank {
 }
 ```
 
-##Help
+## Help
 For common issues or problems, refer to the following advice:
 
 Compiler Errors: Ensure you are using the correct Solidity version (^0.8.0). Check for any typos in the code.
 Transaction Failures: Make sure you have enough Ether in your account for deposits and withdrawals.
 Contract Ownership: Only the account that deployed the contract can call the kill function
+# Authors
+sushant10033
+
+sushantraj893@gmail.com
+## License
+This project is licensed under the MIT License 
 
